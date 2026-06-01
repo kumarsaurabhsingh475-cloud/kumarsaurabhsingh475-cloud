@@ -4,7 +4,7 @@
 
 ### Java Backend Developer · Microservices · Spring Ecosystem
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-kumar-62767a191/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsaurabhsingh475@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-0969DA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Saurabh_Kumar_Java.pdf)
 
@@ -80,14 +80,6 @@ Currently at **[Drabito Technologies](https://drabito.com)** (Noida), I work on 
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Period | Location |
-|------|---------|--------|----------|
-| **Software Developer** | **Drabito Technologies Pvt. Ltd.** | Jan 2024 – Present | Noida, India |
-
----
-
 ## 🚀 Featured Projects
 
 <details>
@@ -149,19 +141,6 @@ Currently at **[Drabito Technologies](https://drabito.com)** (Noida), I work on 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kumarsaurabhsingh475-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsaurabhsingh475-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsaurabhsingh475-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -171,7 +150,7 @@ Currently at **[Drabito Technologies](https://drabito.com)** (Noida), I work on 
 | 📧 **Email** | [kumarsaurabhsingh475@gmail.com](mailto:kumarsaurabhsingh475@gmail.com) |
 | 📱 **Phone** | +91 79922 12983 |
 | 📄 **Resume** | [Download PDF](./assets/Saurabh_Kumar_Java.pdf) |
-| 💼 **LinkedIn** | [Update your profile URL](https://www.linkedin.com/in/) |
+| 💼 **LinkedIn** | [saurabh-kumar-62767a191](https://www.linkedin.com/in/saurabh-kumar-62767a191/) |
 | 🐙 **GitHub** | [@kumarsaurabhsingh475-cloud](https://github.com/kumarsaurabhsingh475-cloud) |
 
 </div>
