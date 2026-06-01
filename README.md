@@ -4,6 +4,7 @@
 
 ### Java Backend Developer · Microservices · Spring Ecosystem
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-psi-7j78r0csbd.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-kumar-62767a191/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsaurabhsingh475@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-0969DA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Saurabh_Kumar_Java.pdf)
@@ -149,6 +150,7 @@ Currently at **[Drabito Technologies](https://drabito.com)** (Noida), I work on 
 |:---:|:---:|
 | 📧 **Email** | [kumarsaurabhsingh475@gmail.com](mailto:kumarsaurabhsingh475@gmail.com) |
 | 📱 **Phone** | +91 79922 12983 |
+| 🌐 **Portfolio** | [portfolio-nine-psi-7j78r0csbd.vercel.app](https://portfolio-nine-psi-7j78r0csbd.vercel.app/) |
 | 📄 **Resume** | [Download PDF](./assets/Saurabh_Kumar_Java.pdf) |
 | 💼 **LinkedIn** | [saurabh-kumar-62767a191](https://www.linkedin.com/in/saurabh-kumar-62767a191/) |
 | 🐙 **GitHub** | [@kumarsaurabhsingh475-cloud](https://github.com/kumarsaurabhsingh475-cloud) |
