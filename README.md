@@ -25,8 +25,8 @@ I like systems that scale, APIs people can actually use, and shipping fixes that
 
 Most of what I enjoy is the unglamorous side of backend work: profiling slow queries, fixing execution plans, and keeping APIs quick under load. That shows up in workflow engines, live dashboards, and multi-wallet systems alike.
 
-| | |
-|:---:|:---:|
+| Stat | Summary |
+| :---: | :--- |
 | **2.5+ Years** | Backend experience |
 | **4+ Projects** | Delivered in production |
 | **Up to 90%** | API performance gains on tuned endpoints |
@@ -164,8 +164,8 @@ Society SaaS with multi-wallet billing, balance alerts, and QR/OTP gate access.
 
 ## Highlights
 
-| | |
-|---|---|
+| Highlight | Detail |
+| --- | --- |
 | Client recognition | WorkED Operations Hub called out **twice** for quality and reliability |
 | Performance | Up to **90%** faster APIs; about **80%** faster landing pages after query fixes |
 | Leadership | Senior team noted faster backend turnaround and fewer recurring support issues |
@@ -182,8 +182,8 @@ Society SaaS with multi-wallet billing, balance alerts, and QR/OTP gate access.
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsaurabhsingh475@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download_PDF-0969DA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Saurabh_Kumar_Java.pdf)
 
-| | |
-|:---:|:---:|
+| Contact | Info |
+| :---: | :--- |
 | **Email** | [kumarsaurabhsingh475@gmail.com](mailto:kumarsaurabhsingh475@gmail.com) |
 | **Phone** | +91 79922 12983 |
 | **Location** | Noida, India |
