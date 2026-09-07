@@ -2,14 +2,14 @@
 
 # Hi, I'm Saurabh Kumar
 
-### Java Backend Engineer | Spring Boot | Microservices
+### Java Backend Engineer | Spring Boot | Spring AI | RAG
 
 [![Open Portfolio](https://img.shields.io/badge/Open_Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nine-psi-7j78r0csbd.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-kumar-62767a191/)
 [![Email](https://img.shields.io/badge/Email-Write_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsaurabhsingh475@gmail.com)
 [![Resume](https://img.shields.io/badge/Download_Resume-PDF-0969DA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Saurabh_Kumar_Java.pdf)
 
-I build scalable SaaS backends with **Java** and **Spring Boot** for real production workloads - including a **Quartz-powered workflow engine** for email and SMS automation, plus **Redis** and **Elasticsearch** to keep APIs and search fast. Query tuning on hot paths has cut response times by up to **90%** in live apps.
+I build scalable SaaS backends with **Java** and **Spring Boot** for real production workloads - including a **Quartz-powered workflow engine** for email and SMS automation, plus **Redis** and **Elasticsearch** to keep APIs and search fast. Recently building **GenAI** apps with **Spring AI**, **RAG**, and **PGVector**. Query tuning on hot paths has cut response times by up to **90%** in live apps.
 
 [![Open Portfolio](https://img.shields.io/badge/→_Open_My_Portfolio-2D3748?style=for-the-badge&labelColor=000000)](https://portfolio-nine-psi-7j78r0csbd.vercel.app/)
 
@@ -21,14 +21,14 @@ I build scalable SaaS backends with **Java** and **Spring Boot** for real produc
 
 I like systems that scale, APIs people can actually use, and shipping fixes that stick.
 
-**2.5+ years** building SaaS backends with **Java (8/11/17/21)**, **Spring Boot**, **REST & GraphQL**, **PostgreSQL**, and **MySQL**. At **[Drabito Technologies](https://drabito.com)** in Noida, I work on EdTech, solar EPC, and smart-society products - query tuning, OAuth/Google login, Swagger-documented APIs, and multithreading when throughput needs it.
+**2.6 years** building SaaS backends with **Java (8/11/17/21)**, **Spring Boot**, **REST & GraphQL**, **PostgreSQL**, and **MySQL**. At **[Drabito Technologies](https://drabito.com)** in Noida, I work on EdTech, solar EPC, and smart-society products - query tuning, OAuth/Google login, Swagger-documented APIs, and multithreading when throughput needs it.
 
 Most of what I enjoy is the unglamorous side of backend work: profiling slow queries, fixing execution plans, and keeping APIs quick under load. That shows up in workflow engines, live dashboards, and multi-wallet systems alike.
 
 | Stat | Summary |
 | :---: | :--- |
-| **2.5+ Years** | Backend experience |
-| **4+ Projects** | Delivered in production |
+| **2.6 Years** | Backend experience |
+| **5+ Projects** | Delivered in production |
 | **Up to 90%** | API performance gains on tuned endpoints |
 | **2x** | Client recognition (WorkED Operations Hub) |
 
@@ -39,9 +39,10 @@ Most of what I enjoy is the unglamorous side of backend work: profiling slow que
 - Microservices and APIs documented with **Swagger/OpenAPI**
 - Multithreading when throughput actually needs it
 - **RBAC**, **Firebase** integrations, and steady **Agile** delivery on SaaS products
+- **Spring AI**, **RAG**, **embeddings**, and **LLM APIs** (Gemini) for document Q&A
 
 - **Now:** WorkED, Zep 360, WorkED Operations Hub
-- **Exploring:** Spring AI, caching patterns, cloud-native observability
+- **Side project:** [DocuMind](https://ai-knowledge-assistant-ui-gamma.vercel.app) - Spring AI + RAG over PDFs
 - **MCA** - Noida Institute of Engineering and Technologies (2018 - 2021, 6.7 CGPA)
 
 ---
@@ -52,10 +53,17 @@ Most of what I enjoy is the unglamorous side of backend work: profiling slow que
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### AI & GenAI
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-005571?style=flat-square&logo=serverless&logoColor=white)
 
 ### Data
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -89,6 +97,7 @@ Most of what I enjoy is the unglamorous side of backend work: profiling slow que
 ## Current Focus
 
 ```text
+▸ Spring AI + RAG: PDF ingestion, vector search, and Gemini-powered Q&A (DocuMind)
 ▸ REST API tuning for latency under load (up to 90% gains on key endpoints)
 ▸ Quartz workflow engine for email and Twilio SMS campaigns
 ▸ GraphQL + REST dashboards for live operations data
@@ -101,6 +110,25 @@ Most of what I enjoy is the unglamorous side of backend work: profiling slow que
 ## Featured Projects
 
 <details open>
+<summary><b>DocuMind</b> - AI Knowledge Assistant | Spring Boot 4 | Spring AI | React 19</summary>
+
+<br>
+
+Upload PDFs, ask questions, and chat - answers grounded in your own documents using **RAG**.
+
+[![Live App](https://img.shields.io/badge/Live_App-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-knowledge-assistant-ui-gamma.vercel.app/)
+[![Backend API](https://img.shields.io/badge/Backend_API-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://ai-knowledge-assistant-jgwm.onrender.com)
+[![Backend Repo](https://img.shields.io/badge/Backend-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarsaurabhsingh475-cloud/ai-knowledge-assistant)
+[![Frontend Repo](https://img.shields.io/badge/Frontend-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarsaurabhsingh475-cloud/ai-knowledge-assistant-ui)
+
+- Built end to end: **Spring Boot 4**, **Spring AI**, **Google Gemini**, **PGVector**, **PostgreSQL**
+- PDF ingestion, chunking, embeddings, and vector similarity search
+- RAG Q&A with SSE streaming and standalone Gemini chat
+- React 19 UI deployed on **Vercel**; backend on **Render**
+
+</details>
+
+<details>
 <summary><b>WorkED Operations Hub</b> - Support & Workflow Automation | Java 21 | Angular 19</summary>
 
 <br>
@@ -166,6 +194,7 @@ Society SaaS with multi-wallet billing, balance alerts, and QR/OTP gate access.
 
 | Highlight | Detail |
 | --- | --- |
+| GenAI | Built **DocuMind** - Spring AI + RAG app with live deployment |
 | Client recognition | WorkED Operations Hub called out **twice** for quality and reliability |
 | Performance | Up to **90%** faster APIs; about **80%** faster landing pages after query fixes |
 | Leadership | Senior team noted faster backend turnaround and fewer recurring support issues |
